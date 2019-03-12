@@ -1,0 +1,12 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\bin\Debug\mifare_plus_c_sharp.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\bin\Debug\mifare_plus_c_sharp.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\bin\Debug\mifare_plus_c_sharp.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.Form1.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.Properties.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.csproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\obj\Debug\mifare_plus_c_sharp.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\bin\Debug\mifare_plus_c_sharp.exe.CodeAnalysisLog.xml
+C:\Users\Projekat\Desktop\VS_C#_Projects\mifare_plus_c_sharp\mifare_plus_c_sharp\bin\Debug\mifare_plus_c_sharp.exe.lastcodeanalysissucceeded
